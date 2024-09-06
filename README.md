@@ -4,11 +4,11 @@
 
 <h4 align="right">Me chamo Adieverson, sou atualmente Administrador de Banco de Dados Pleno, na Montreal Informática terceirizado para a divisão de Estatística da Polícia Civil do Estado do Pará.<br><br>Onde exerço atividades com Banco de dados e estudo de dados para segurança pública e estatística no Estado.</h4>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AdieversonSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdieversonSilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdieversonSilva&theme=chartreuse-dark&area=true&radius=50" height="500" alt="activity-graph graph"  />
-
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdieversonSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdieversonSilva&hide_title=false&layout=compact&card_width=320&theme=default&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdieversonSilva&locale=pt-br&theme=chartreuse-dark&area=true&radius=50" height="500" alt="activity-graph graph"  />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adieverson-silva-589a62199/" target="_blank">
@@ -41,8 +41,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/AdieversonSilva/AdieversonSilva/output/snake.svg" alt="Snake animation" />
 

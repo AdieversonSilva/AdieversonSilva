@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Me chamo Adieverson, sou atualmente Administrador de Banco de Dados Pleno, na Montreal Informática terceirizado para a divisão de Estatística da Polícia Civil do Estado do Pará.<br><br>Onde exerço atividades com Banco de dados e estudo de dados para segurança pública e estatística no Estado.</h4>
+<h4 align="left">Me chamo Adieverson, sou atualmente DBA, na TechLead IT Solutions.<br></h4>
 
 ###
 

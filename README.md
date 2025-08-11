@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Me chamo Adieverson, sou atualmente DBA, na TechLead IT Solutions.<br></h4>
+<h4 align="left">Me chamo Adieverson.<br></h4>
 
 ###
 
